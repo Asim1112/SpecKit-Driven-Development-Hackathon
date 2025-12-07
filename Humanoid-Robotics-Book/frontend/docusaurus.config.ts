@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'MuhammadMuneebSiddique', // Usually your GitHub org/user name.
-  projectName: 'SDD-Hackathon', // Usually your repo name.
+  organizationName: 'AsimHussain', // Usually your GitHub org/user name.
+  projectName: 'SpecKit-Driven-Development-Hackathon', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/MuhammadMuneebSiddique/SDD-Hackathon/tree/main/Physical_Humanoid_AI_Robotics/frontend/',
+            'https://github.com/Asim1112/SpecKit-Driven-Development-Hackathon/tree/main/Humanoid-Robotics-Book/frontend',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/MuhammadMuneebSiddique/SDD-Hackathon/tree/main/Physical_Humanoid_AI_Robotics/frontend/',
+            'https://github.com/Asim1112/SpecKit-Driven-Development-Hackathon/tree/main/Humanoid-Robotics-Book/frontend',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -89,7 +89,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/MuhammadMuneebSiddique/SDD-Hackathon',
+          href: 'https://github.com/Asim1112/SpecKit-Driven-Development-Hackathon.git',
           label: 'GitHub',
           position: 'right',
         },
@@ -145,7 +145,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/MuhammadMuneebSiddique/SDD-Hackathon',
+              href: 'https://github.com/Asim1112/SpecKit-Driven-Development-Hackathon.git',
             },
           ],
         },
